@@ -9,6 +9,7 @@ function Footer() {
             Hobbies
             <li className="text-xl uppercase font-semibold p-4"> Passionate about Tech </li>
             <li className="text-xl uppercase font-semibold p-4"> Watching Animation/Anime </li>
+            <li className="text-xl uppercase font-semibold p-4"> Video Editing  </li>
             <li className="text-xl uppercase font-semibold p-4"> Listening Music </li>
           </h1>
         </div>
